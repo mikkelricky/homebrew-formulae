@@ -1,1 +1,1 @@
-# homebrew-formulae
+# Homebrew formulæ
